@@ -1,4 +1,4 @@
-//1- Crear un servidor en Node con el módulo http.
+//1- Crear un servidor en Node.
 const express = require('express')
 const app = express();
 const url = require('url');
